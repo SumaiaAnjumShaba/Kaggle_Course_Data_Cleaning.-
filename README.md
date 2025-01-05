@@ -1,5 +1,3 @@
 Kaggle Course: Data Cleaning
 
-Certificate 
-
-![Uploading Sumaia Anjum Shaba - Data Cleaning.png…]()
+Course Link: https://www.kaggle.com/learn/data-cleaning
